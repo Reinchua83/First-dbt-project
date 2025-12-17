@@ -1,0 +1,6 @@
+
+target/
+dbt_packages/
+logs/
+.env
+mystic-primacy-478012-q2-195d226f63cf.json
